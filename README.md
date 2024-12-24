@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Data Science and Analysis<br>💬 Ask me about SQL, Python, Database, Advanced Excel<br>
+<br>🌱 Love to create anything<br>💬 Ask me about SQL, Python, Database, Advanced Excel<br>
 
 
 ## 🌐 Socials:
