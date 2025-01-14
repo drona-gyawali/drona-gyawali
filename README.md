@@ -1,19 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Dorna and I'm a First year Computer Science Student  from Nepal.</p>
-
-###
+<h4 align="center">A passionate learner learning by building Projects &, through Open-Source Contribution.</h4>
 
 <br clear="both">
 
 <h2 align="left">About me</h2>
 
-###
+<img align="right" alt= "coding"  width="300" src ="https://i.gifer.com/3AyY.gif">
 
-<p align="left">- 🔭 I’m a First Year undergrad pursuing a Computer Science Degree<br>- 📚 I'm currently learning backend with AI Integrations.<br>- ⚡ In my free time I go to monkeytype.com</p>
 
+- 🌱 I'm currently learning to create **Roboust Back-end & Beautiful Front-end with ML to power AI usage.**
+
+- 📝 I regularly write articles on [https://medium.com/@dronarajgyawali](https://medium.com/@dronarajgyawali)
+
+- 💬 Ask me about **Database, OS, RestApI, Backend, Algorithms**
+
+- 📫 How to reach me **dronarajgyawali@gmail.com**
 ###
 
 <h2 align="left">I code with</h2>
