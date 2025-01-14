@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dronarajgyawali](https://medium.com/@dronarajgyawali)
 
-- 💬 Ask me about **Database, OS, RestApI, Backend, Algorithms**
+- 💬 Ask me about **Database, OS, RestApI, Backend, & Algorithms**
 
 - 📫 How to reach me **dronarajgyawali@gmail.com**
 ###
