@@ -1,52 +1,47 @@
-<h1 align="center">Building projects while learning & contributing to Open Source</h1>
+<h1 align="center">Hi 👋, I'm Drona Raj Gyawali</h1>
+<h3 align="center">A passionate Computer Science freshman from Nepal</h3>
 
-###  
-<br clear="both">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drona-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="drona-gyawali" /> </p>
 
-<h2 align="left">About Me</h2>
+- 🔭 I’m currently working on [Support system](https://github.com/drona-gyawali/Support-System)
 
-<img align="right" alt="coding" width="300" src="https://i.gifer.com/3AyY.gif">
+- 🌱 I’m currently learning **Optimizations and Algorithms**
 
-🚀 **Hey, I'm Drona Raj Gyawali!**  
-I'm passionate about backend & frontend development, with a keen interest in AI & ML.  
-I love solving complex problems, optimizing databases, and contributing to Open Source.
+- 👨‍💻 All of my projects are available at [Github](Github)
 
-- 🌱 Currently mastering **backend, frontend, and AI-driven applications**  
-- 👩🏻‍💻 **Leetcode:** [leetcode/dronaraj](https://leetcode.com/u/dronaraj/)  
-- 📝 **Medium:** [medium/@dronarajgyawali](https://medium.com/@dronarajgyawali)  
-- 💬 Ask me about **Databases, OS, REST APIs, Backend & Algorithms**  
-- 📩 **Let's connect!** Reach me at [dronarajgyawali@gmail.com](mailto:dronarajgyawali@gmail.com)  
+- 📝 I regularly write articles on [https://medium.com/@dronarajgyawali](https://medium.com/@dronarajgyawali)
 
----
+- 💬 Ask me about **python, javascript/typescript, database, and popular frameworks**
 
-<h2 align="left">I Code With</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-</div>
+- 📫 How to reach me **dronarajgyawali@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dornaoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dornaoffical" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dorna-gyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorna-gyawali" height="30" width="40" /></a>
+<a href="https://instagram.com/gyawali_dorna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyawali_dorna" height="30" width="40" /></a>
+<a href="https://medium.com/@dronarajgyawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dronarajgyawali" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dronaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dronaraj" height="30" width="40" /></a>
+<a href="https://discord.gg/7JaUjHsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7JaUjHsw" height="30" width="40" /></a>
+</p>
 
-### ✍️ **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=drona-gyawali&show_icons=true&locale=en&theme=github_dark&hide_title=true&hide_border=true" 
+    media="(prefers-color-scheme: dark)">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=drona-gyawali&show_icons=true&locale=en&theme=default&hide_title=true&hide_border=true" 
+    alt="drona-gyawali stats" />
+</picture>
 
-[![](https://visitcount.itsvg.in/api?id=drona-gyawali&icon=0&color=1)](https://visitcount.itsvg.in)
+<br>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=drona-gyawali&theme=github-dark&hide_border=true" 
+  alt="drona-gyawali streak" />
+
+<br>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=drona-gyawali&theme=github-compact&hide_title=true&hide_border=true" 
+  alt="" />
