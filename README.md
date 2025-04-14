@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Drona Raj Gyawali</h1>
+<p align="center">
+  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1801/karpenkoilia180100046/94056041-vector-line-web-banner-for-computer-engineering-modern-linear-concept-for-software-development.jpg" width="500" height="100" alt="Computer Engineering Banner" />
+</p>
+
+
 <h3 align="center">A passionate Computer Science freshman from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drona-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="drona-gyawali" /> </p>
