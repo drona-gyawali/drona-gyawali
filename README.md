@@ -42,9 +42,6 @@
 
 <br>
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=drona-gyawali&theme=github-dark&hide_border=true" 
-  alt="drona-gyawali streak" />
 
 <br>
 
