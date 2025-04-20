@@ -21,6 +21,9 @@
 
 - 😏 Funfact **I love to be in Political Talks**
 
+**Recent Blog**
+   - [Real Code Doesn’t Crash: Why Low-Level Programming Is Built Different](https://medium.com/@dronarajgyawali/real-code-doesnt-crash-why-low-level-programming-is-built-different-a1ee6fc98a50) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dornaoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dornaoffical" height="30" width="40" /></a>
