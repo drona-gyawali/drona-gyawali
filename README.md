@@ -26,9 +26,6 @@
 
 ## 🔀 Recent Pull Requests
 <!-- RECENT_PRS_START -->
-✅ **Merged**
-
-🚧 **Open**
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
