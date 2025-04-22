@@ -29,6 +29,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git pull --rebase origin main
         git add README.md
         git commit -m "Update recent pull requests in README" || echo "No changes to commit"
         git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
