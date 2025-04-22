@@ -28,9 +28,9 @@
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
+- [[BUG]  Fix Views TypeError](https://github.com/certego/BuffaLogs/pull/237)
 - [[Feature] Splunk Ingestion](https://github.com/certego/BuffaLogs/pull/227)
 - [fix csrf forbidden error](https://github.com/certego/BuffaLogs/pull/240)
-- [[BUG]  Fix Views TypeError](https://github.com/certego/BuffaLogs/pull/237)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
 - [[Feature] Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
