@@ -23,12 +23,16 @@ with open("README.md", "r") as file:
 start = lines.index("<!-- RECENT_PRS_START -->\n")
 end = lines.index("<!-- RECENT_PRS_END -->\n")
 
+# Hosted SVG icons (raw.githubusercontent)
+merge_icon = "https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg"
+open_icon = "https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg"
+
 new_lines = ["<!-- RECENT_PRS_START -->\n"]
-new_lines.append("\n **Merged**\n")
+new_lines.append(f'\n<img src="{merge_icon}" width="20"/> **Merged**\n')
 for pr in merged:
     new_lines.append(f"- [{pr['title']}]({pr['html_url']})\n")
 
-new_lines.append("\n **Open**\n")
+new_lines.append(f'\n<img src="{open_icon}" width="20"/> **Open**\n')
 for pr in open_prs:
     new_lines.append(f"- [{pr['title']}]({pr['html_url']})\n")
 
