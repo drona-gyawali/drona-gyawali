@@ -26,6 +26,15 @@
 
 ## 🔀 Recent Pull Requests
 <!-- RECENT_PRS_START -->
+
+✅ **Merged**
+- [✨ [Feature] Splunk Ingestion](https://github.com/certego/BuffaLogs/pull/227)
+- [✨ fix csrf forbidden error](https://github.com/certego/BuffaLogs/pull/240)
+- [✨ [BUG]  Fix Views TypeError](https://github.com/certego/BuffaLogs/pull/237)
+
+🚧 **Open**
+- [🚀 [Feature] Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
+- [🚀 Feature/Add support for per-request metadata/headers](https://github.com/google-gemini/deprecated-generative-ai-python/pull/704)
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
