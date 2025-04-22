@@ -4,7 +4,7 @@ description: "Update the README file with recent pull requests"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # Every hour
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
@@ -25,13 +25,16 @@ jobs:
     - name: Run script
       run: python update-readme.py
 
-    - name: Push changes
+    - name: Stash changes and pull latest changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git stash
+        git stash || echo "No changes to stash"
         git pull --rebase origin main
         git stash pop || echo "No stash to apply"
+
+    - name: Push changes
+      run: |
         git add README.md
         git commit -m "Update recent pull requests in README" || echo "No changes to commit"
         git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
