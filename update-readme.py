@@ -24,13 +24,13 @@ start = lines.index("<!-- RECENT_PRS_START -->\n")
 end = lines.index("<!-- RECENT_PRS_END -->\n")
 
 new_lines = ["<!-- RECENT_PRS_START -->\n"]
-new_lines.append("\n✅ **Merged**\n")
+new_lines.append("\n **Merged**\n")
 for pr in merged:
-    new_lines.append(f"- [✨ {pr['title']}]({pr['html_url']})\n")
+    new_lines.append(f"- [{pr['title']}]({pr['html_url']})\n")
 
-new_lines.append("\n🚧 **Open**\n")
+new_lines.append("\n **Open**\n")
 for pr in open_prs:
-    new_lines.append(f"- [🚀 {pr['title']}]({pr['html_url']})\n")
+    new_lines.append(f"- [{pr['title']}]({pr['html_url']})\n")
 
 new_lines.append("<!-- RECENT_PRS_END -->\n")
 lines[start:end+1] = new_lines

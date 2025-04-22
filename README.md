@@ -24,7 +24,7 @@
 **Recent Blog**
    - [Real Code Doesn’t Crash: Why Low-Level Programming Is Built Different](https://medium.com/@dronarajgyawali/real-code-doesnt-crash-why-low-level-programming-is-built-different-a1ee6fc98a50) 
 
-## 🔀 Recent Pull Requests
+**Recent Pull Requests**
 <!-- RECENT_PRS_START -->
 
 ✅ **Merged**
