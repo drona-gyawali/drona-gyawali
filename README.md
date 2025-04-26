@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drona-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="drona-gyawali" /> </p>
 
-- 🔭 I’m currently working on [Support system](https://github.com/drona-gyawali/Support-System)
+- 🔭 I’m currently working on [Supportix](https://github.com/drona-gyawali/Support-System)
 
 - 🌱 I’m currently learning **Optimizations and Algorithms**
 
