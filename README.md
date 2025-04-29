@@ -33,7 +33,7 @@
 - [fix csrf forbidden error](https://github.com/certego/BuffaLogs/pull/240)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
-- [[Feature] Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
+- [feat:  Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
 - [Feature/Add support for per-request metadata/headers](https://github.com/google-gemini/deprecated-generative-ai-python/pull/704)
 <!-- RECENT_PRS_END -->
 
