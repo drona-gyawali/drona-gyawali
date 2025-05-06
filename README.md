@@ -28,12 +28,11 @@
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
+- [feat: User Login Activity Dashboard](https://github.com/certego/BuffaLogs/pull/275)
 - [[BUG]  Fix Views TypeError](https://github.com/certego/BuffaLogs/pull/237)
 - [[Feature] Splunk Ingestion](https://github.com/certego/BuffaLogs/pull/227)
-- [fix csrf forbidden error](https://github.com/certego/BuffaLogs/pull/240)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
-- [feat: User Login Activity Dashboard](https://github.com/certego/BuffaLogs/pull/275)
 - [feat:  Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
 - [Feature/Add support for per-request metadata/headers](https://github.com/google-gemini/deprecated-generative-ai-python/pull/704)
 <!-- RECENT_PRS_END -->
