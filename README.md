@@ -7,22 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drona-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="drona-gyawali" /> </p>
 
-- 🔭 I’m currently working on [Supportix](https://github.com/drona-gyawali/Support-System)
+**Know Me**
 
-- 🌱 I’m currently learning **Optimizations and Algorithms**
+I am a first-year **undergraduate** student currently working on my side project, **Supportix**, where I’m building solutions to make support systems smarter and more efficient. Alongside that, I’m actively contributing to **open-source software**, pushing myself to learn and grow through real-world collaboration and code. I believe in learning by doing and I’m just getting started.
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 📝 I regularly write articles on [https://medium.com/@dronarajgyawali](https://medium.com/@dronarajgyawali)
-
-- 💬 Ask me about **python, javascript/typescript, database, and popular frameworks**
-
-- 📫 How to reach me **dronarajgyawali@gmail.com**
-
-- 😏 Funfact **I love to be in Political Talks**
 
 **Recent Blog**
-   - [Real Code Doesn’t Crash: Why Low-Level Programming Is Built Different](https://medium.com/@dronarajgyawali/real-code-doesnt-crash-why-low-level-programming-is-built-different-a1ee6fc98a50) 
+
+   - [Real Code Doesn’t Crash: Why Low-Level Programming Is Built Different](https://medium.com/@dronarajgyawali/real-code-doesnt-crash-why-low-level-programming-is-built-different-a1ee6fc98a50)
 
 **Recent Pull Requests**
 <!-- RECENT_PRS_START -->
