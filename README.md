@@ -28,9 +28,9 @@
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
+- [Setup: Github workflows](https://github.com/drona-gyawali/Supportix/pull/1)
 - [feat: User Login Activity Dashboard](https://github.com/certego/BuffaLogs/pull/275)
 - [[BUG]  Fix Views TypeError](https://github.com/certego/BuffaLogs/pull/237)
-- [[Feature] Splunk Ingestion](https://github.com/certego/BuffaLogs/pull/227)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
 - [feat:  Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
