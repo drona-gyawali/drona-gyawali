@@ -20,12 +20,11 @@ I am a first-year **undergraduate** student currently working on my side project
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
+- [feat:  Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
 - [Setup: Github workflows](https://github.com/drona-gyawali/Supportix/pull/1)
 - [feat: User Login Activity Dashboard](https://github.com/certego/BuffaLogs/pull/275)
-- [[BUG]  Fix Views TypeError](https://github.com/certego/BuffaLogs/pull/237)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
-- [feat:  Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
