@@ -25,6 +25,7 @@ I am a first-year **undergraduate** student currently working on my side project
 - [Setup: Github workflows](https://github.com/drona-gyawali/Supportix/pull/1)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
+- [Feature/frontend: Alert Details page](https://github.com/certego/BuffaLogs/pull/282)
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
