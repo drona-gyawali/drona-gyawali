@@ -25,6 +25,7 @@ I am a first-year **undergraduate** student currently working on my side project
 - [feat:  Dockerized Node Js ](https://github.com/certego/BuffaLogs/pull/263)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
+- [ Add advanced alert filtering options (name, country, VIP, severity) – resolves #178](https://github.com/certego/BuffaLogs/pull/284)
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
