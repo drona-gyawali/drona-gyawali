@@ -20,12 +20,11 @@ I am a first-year **undergraduate** student currently working on my side project
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
+- [ Add advanced alert filtering options – resolves #178](https://github.com/certego/BuffaLogs/pull/284)
 - [(RUF012)  Fixed mutable class Defaults- Task 5](https://github.com/internetarchive/openlibrary/pull/10273)
 - [Feature/frontend: Alert Details page](https://github.com/certego/BuffaLogs/pull/282)
-- [Bug_fix/frontend: Homepage](https://github.com/certego/BuffaLogs/pull/280)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
-- [ Add advanced alert filtering options (name, country, VIP, severity) – resolves #178](https://github.com/certego/BuffaLogs/pull/284)
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
