@@ -14,7 +14,7 @@ I am a first-year **undergraduate** student currently working on my side project
 
 **Recent Blog**
 
-   - [Real Code Doesn’t Crash: Why Low-Level Programming Is Built Different](https://medium.com/@dronarajgyawali/real-code-doesnt-crash-why-low-level-programming-is-built-different-a1ee6fc98a50)
+   - [Secret-Scanner: A project to detect secret keys like API, password, and many more.](https://medium.com/@dronarajgyawali/secret-scanner-a-project-to-detect-secret-keys-like-api-password-and-many-more-a54f416d7db5)
 
 **Recent Pull Requests**
 <!-- RECENT_PRS_START -->
