@@ -51,6 +51,3 @@ I am a first-year **undergraduate** student currently working on my side project
 
 <br>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=drona-gyawali&theme=github-compact&hide_title=true&hide_border=true" 
-  alt="" />
