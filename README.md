@@ -20,9 +20,9 @@ I am a first-year **undergraduate** student currently working on my side project
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
+- [Feat: Set CI/CD: Testcase](https://github.com/drona-gyawali/Linkly/pull/1)
 - [Initialize monorepo with core, VS Code extension,& CI/CD workflow](https://github.com/drona-gyawali/secret-scanner/pull/2)
 - [Improved Error Message](https://github.com/openclimatefix/ocf-data-sampler/pull/269)
-- [ Add advanced alert filtering options – resolves #178](https://github.com/certego/BuffaLogs/pull/284)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
 <!-- RECENT_PRS_END -->
