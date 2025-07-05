@@ -25,6 +25,7 @@ I am a first-year **undergraduate** student currently working on my side project
 - [Improved Error Message](https://github.com/openclimatefix/ocf-data-sampler/pull/269)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
+- [feat:Add country_name validator](https://github.com/certego/BuffaLogs/pull/342)
 <!-- RECENT_PRS_END -->
 
 <h3 align="left">Connect with me:</h3>
