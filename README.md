@@ -14,7 +14,7 @@ I am a first-year **undergraduate** student currently working on my side project
 
 **Recent Blog**
 
-   - [Secret-Scanner: A project to detect secret keys like API, password, and many more.](https://medium.com/@dronarajgyawali/secret-scanner-a-project-to-detect-secret-keys-like-api-password-and-many-more-a54f416d7db5)
+   - [Secret-Scanner](https://medium.com/@dronarajgyawali/secret-scanner-a-project-to-detect-secret-keys-like-api-password-and-many-more-a54f416d7db5) A project to detect secret keys like API, password, and many more
 
 **Recent Pull Requests**
 <!-- RECENT_PRS_START -->
@@ -28,6 +28,20 @@ I am a first-year **undergraduate** student currently working on my side project
 - [feat(bigtable): add Clear(std::string&) helper for RowKeyType compatibility](https://github.com/googleapis/google-cloud-cpp/pull/15252)
 - [feat:Add country_name validator](https://github.com/certego/BuffaLogs/pull/342)
 <!-- RECENT_PRS_END -->
+
+
+## My Recent Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [secret-scanner](https://github.com/drona-gyawali/secret-scanner) | Detects hardcoded secrets (API keys, credentials). Fast C++ engine, CLI & VS Code extension. | C++ |
+| [Supportix](https://github.com/drona-gyawali/Supportix) | Builds customer relationships via efficient support & personalized service. | Python |
+| [Linkly](https://github.com/drona-gyawali/Linkly) | Fast, lightweight URL shortener app. | Python |
+| [Thoughts](https://github.com/drona-gyawali/Thoughts) | Minimal social media platform for sharing/interacting with thoughts. | Django, HTML, JS |
+| [Database-schema](https://github.com/drona-gyawali/Database-schema) | Hospital Management System database design in MySQL. | MySQL |
+| [ChronoLock](https://github.com/drona-gyawali/ChronoLock) | A journal that locks your memories securely. | C |
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
