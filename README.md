@@ -34,7 +34,7 @@ I am a first-year **undergraduate** student currently working on my side project
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [secret-scanner](https://github.com/drona-gyawali/secret-scanner) | Detects hardcoded secrets (API keys, credentials). Fast C++ engine, CLI & VS Code extension. | C++ |
+| [secret-scanner](https://github.com/drona-gyawali/secret-scanner) | Detects hardcoded secrets (API keys, credentials). Fast C++ engine, CLI & VS Code extension. | C++, Typescript |
 | [Supportix](https://github.com/drona-gyawali/Supportix) | Builds customer relationships via efficient support & personalized service. | Python |
 | [Linkly](https://github.com/drona-gyawali/Linkly) | Fast, lightweight URL shortener app. | Python |
 | [Thoughts](https://github.com/drona-gyawali/Thoughts) | Minimal social media platform for sharing/interacting with thoughts. | Django, HTML, JS |
