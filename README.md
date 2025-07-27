@@ -25,6 +25,7 @@ I am a first-year **undergraduate** student currently working on my side project
 - [feat(Analytics): Added Utm for detalied analysis](https://github.com/drona-gyawali/Linkly/pull/2)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
+- [Refactor(tests): improve Testalerter performance using setUpTestData](https://github.com/certego/BuffaLogs/pull/382)
 - [feat(bigtable): add Clear(std::string&) helper for RowKeyType compatibility](https://github.com/googleapis/google-cloud-cpp/pull/15252)
 <!-- RECENT_PRS_END -->
 
