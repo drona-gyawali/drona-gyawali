@@ -25,6 +25,7 @@ I am a first-year **undergraduate** student currently working on my side project
 - [Linter integration](https://github.com/drona-gyawali/Linkly/pull/3)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
+- [feat(bigtable): add Clear(std::string&) helper for RowKeyType compatibility](https://github.com/googleapis/google-cloud-cpp/pull/15252)
 <!-- RECENT_PRS_END -->
 
 
