@@ -13,12 +13,8 @@ I am a first-year **undergraduate** student currently working and learning on va
 <!-- RECENT_PRS_START -->
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
-- [Refactor(tests): improve Testalerter performance using setUpTestData](https://github.com/certego/BuffaLogs/pull/382)
-- [feat:Add country_name validator](https://github.com/certego/BuffaLogs/pull/342)
-- [Linter integration](https://github.com/drona-gyawali/Linkly/pull/3)
 
 <img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
-- [feat(bigtable): add Clear(std::string&) helper for RowKeyType compatibility](https://github.com/googleapis/google-cloud-cpp/pull/15252)
 <!-- RECENT_PRS_END -->
 
 <h3 align="center">Connect with me:</h3>
