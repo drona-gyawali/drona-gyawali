@@ -9,14 +9,6 @@
 I am a first-year **undergraduate** student currently working and learning on various technology to make AI product for end users. Alongside that, I’m actively contributing to **open-source software**, pushing myself to learn and grow through real-world collaboration and code. I believe in learning by doing and I’m just getting started.
 
 
-**Recent Pull Requests**
-<!-- RECENT_PRS_START -->
-
-<img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/merge.svg" width="20"/> **Merged**
-
-<img src="https://raw.githubusercontent.com/drona-gyawali/drona-gyawali/main/.github/assets/icon/open.svg" width="20"/> **Open**
-<!-- RECENT_PRS_END -->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/dornaoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dornaoffical" height="30" width="40" /></a>
