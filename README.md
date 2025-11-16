@@ -5,9 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drona-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="drona-gyawali" /> </p>
 
 **Hey there 👋,**
+I’m an **Undergrad (Batch 2028)** with a strong focus on **backend engineering** and **system design**.
+I primarily work with **Python, C++ and JavaScript**, and I love building things that *scale*.
 
-I am a first-year **undergraduate** student currently working and learning on various technology to make AI product for end users. Alongside that, I’m actively contributing to **open-source software**, pushing myself to learn and grow through real-world collaboration and code. I believe in learning by doing and I’m just getting started.
+My work usually revolves around:
 
+* **High-scalability backends**
+* **Microservices architecture**
+* **Distributed systems**
+* Message brokers & async systems (**Redis, Kafka, RabbitMQ** and more)
+* Knowing exactly *where each tool fits* in a production environment
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
