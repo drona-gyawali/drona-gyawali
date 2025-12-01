@@ -6,15 +6,9 @@
 
 **Hey there 👋,**
 I’m an **Undergrad (Batch 2028)** with a strong focus on **backend engineering** and **system design**.
-I primarily work with **Python, C++ and JavaScript**, and I love building things that *scale*.
+I primarily work with **Python, C++ and JavaScript/Typescript**, and I love building things that *scale*.
 
-My work usually revolves around:
-
-* **High-scalability backends**
-* **Microservices architecture**
-* **Distributed systems**
-* Message brokers & async systems (**Redis, Kafka, RabbitMQ** and more)
-* Knowing exactly *where each tool fits* in a production environment
+**Recent Work**: Built the scalable multimedia binary processing backend system using ffmpeg, & audiowaveform : [Project link](https://github.com/drona-gyawali/PX47)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
