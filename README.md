@@ -4,9 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drona-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="drona-gyawali" /> </p>
 
-**Hey there 👋,**
-I’m an **Undergrad (Batch 2028)** with a strong focus on **backend engineering** and **system design**.
-I primarily work with **Python, C++ and JavaScript/Typescript**, and I love building things that *scale*.
+**Deductive Statement:**
+
+1. Any developer who masters backend  becomes an efficient problem solver.
+2. Any developer who masters frontend  can build interactive experiences.
+3. Any developer who explores AI can innovate smarter solutions.
+4. I has mastered backend (FastAPI, Django, Node.js), frontend (React), and  exploring AI.
+
+**Conclusion:**
+- I = Full-Stack + AI Explorer
+- Passionate about building robust APIs, interactive apps, and intelligent systems
+- Always learning, coding, and contributing to open-source
+---
 
 **Recent Work**:
 - Built the scalable multimedia binary processing backend system using ffmpeg, & audiowaveform : [PX47](https://github.com/drona-gyawali/PX47)
