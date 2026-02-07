@@ -1,8 +1,13 @@
-**Recent Work**:
-- Built the scalable multimedia binary processing backend system using ffmpeg, & audiowaveform : [PX47](https://github.com/drona-gyawali/PX47)
-- Built p2p tunnel for file sharing, using webrtc protocol : [SDR-9](https://github.com/drona-gyawali/SDR-9)
-- Design the chatapp backend which has a potential to scale for millions of user: [VARTA](https://github.com/drona-gyawali/Varta)
+**Current Work**:
+- [**PX47**](https://github.com/drona-gyawali/PX47) — Scalable multimedia binary processing backend system using ffmpeg, & audiowaveform.
+  
+- [**SDR-9**](https://github.com/drona-gyawali/SDR-9) — P2p tunnel for file sharing, using webrtc protocol.
+  
+- [**VARTA**](https://github.com/drona-gyawali/Varta) — Scalable Chatapp backend built with redis, kafka, and postgres.
 
+- [**Synapse**](https://github.com/drona-gyawali/Synapse) - Full stack app to dump your thoughts and share to the world.
+
+- [**Scanner**](https://github.com/drona-gyawali/secret-scanner) - Detects hardcoded secrets like API keys and credentials in codebase.
 ---
 
 <h3 align="center">Connect with me:</h3>
