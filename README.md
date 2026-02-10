@@ -5,9 +5,15 @@
   
 - [**VARTA**](https://github.com/drona-gyawali/Varta) — Scalable Chatapp backend built with redis, kafka, and postgres.
 
-- [**Synapse**](https://github.com/drona-gyawali/Synapse) - Full stack app to dump your thoughts and share to the world.
+- [**Synapse**](https://github.com/drona-gyawali/Synapse) — Full stack app to dump your thoughts and share to the world.
 
-- [**Scanner**](https://github.com/drona-gyawali/secret-scanner) - Detects hardcoded secrets like API keys and credentials in codebase.
+- [**Scanner**](https://github.com/drona-gyawali/secret-scanner) — Detects hardcoded secrets like API keys and credentials in codebase.
+
+- [**P1ng**](https://github.com/drona-gyawali/p1ng) — Minimalist internet speed tester that delivers raw performance metrics
+
+- [**Linkly**](https://github.com/drona-gyawali/Linkly) — Fast and lightweight URL shortener app
+
+- [**Investor Analysis**](https://github.com/drona-gyawali/Smart-Investor-Analytics)  — Management-based project where we study the investment behavior of a company and perform data analysis
 ---
 
 <h3 align="center">Connect with me:</h3>
