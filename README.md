@@ -1,4 +1,9 @@
+Hi, I am an Engineer, Who can spend hours doing Automation, AI, and Infra Stuff.
+
 **Current Work**:
+
+- [**Quark**](https://github.com/drona-gyawali/Quark) — A high-performance RAG system designed for deep document analysis and persistent context awareness.
+
 - [**PX47**](https://github.com/drona-gyawali/PX47) — Scalable multimedia binary processing backend system using ffmpeg, & audiowaveform.
   
 - [**SDR-9**](https://github.com/drona-gyawali/SDR-9) — P2p tunnel for file sharing, using webrtc protocol.
