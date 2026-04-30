@@ -1,6 +1,6 @@
 
 
-Hi, I am **developer** addicted to the deep end of AI infrastructure, automation, and production-grade architecture.
+Hi, I am **developer** loved to the deep dive into AI infrastructure, automation, and production-grade architecture.
 
 ## My Personal Lab
 
