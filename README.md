@@ -1,26 +1,37 @@
-Hi, I am an Engineer, Who can spend hours doing Automation, AI, and Infra Stuff.
 
-**Current Work**:
 
-- [**Quark**](https://github.com/drona-gyawali/Quark) — A high-performance RAG system designed for deep document analysis and persistent context awareness.
+Hi, I am **developer** addicted to the deep end of AI infrastructure, automation, and production-grade architecture.
 
-- [**PX47**](https://github.com/drona-gyawali/PX47) — Scalable multimedia binary processing backend system using ffmpeg, & audiowaveform.
+## My Personal Lab
+
+### **AI & Data Infrastructure**
+*   **[Quark](https://github.com/drona-gyawali/Quark)** — High-performance RAG pipeline for deep docs analysis, with dual-stream memory, and persistent context awareness.
   
-- [**SDR-9**](https://github.com/drona-gyawali/SDR-9) — P2p tunnel for file sharing, using webrtc protocol.
-  
-- [**VARTA**](https://github.com/drona-gyawali/Varta) — Scalable Chatapp backend built with redis, kafka, and postgres.
+*   **[PX47](https://github.com/drona-gyawali/PX47)** — Scalable multimedia binary processing engine utilizing `ffmpeg` and `audiowaveform` for high-throughput stream analysis.
 
-- [**Synapse**](https://github.com/drona-gyawali/Synapse) — Full stack app to dump your thoughts and share to the world.
+### **Distributed Systems & Networking**
+*   **[SDR-9](https://github.com/drona-gyawali/SDR-9)** — P2P tunnel for zero-bandwidth file sharing. Implements WebRTC for direct browser-to-browser data transfer.
+*   **[Varta](https://github.com/drona-gyawali/Varta)** — High-concurrency chat architecture. Built for horizontal scale using **Redis**, **Kafka**, and **PostgreSQL**.
+*   **[P1ng](https://github.com/drona-gyawali/p1ng)** — Low-overhead internet speed tester focused on raw performance metrics and minimal latency jitter.
 
-- [**Scanner**](https://github.com/drona-gyawali/secret-scanner) — Detects hardcoded secrets like API keys and credentials in codebase.
+### **Security & Utilities**
+*   **[Scanner](https://github.com/drona-gyawali/secret-scanner)** — Automated security tool to detect hardcoded API keys and credentials within local and remote codebases.
+*   **[Synapse](https://github.com/drona-gyawali/Synapse)** — Full-stack platform for persistent thought-dumping and global content sharing.
+*   **[Linkly](https://github.com/drona-gyawali/Linkly)** — Minimalist, high-speed URL shortening service optimized for low-latency redirects.
 
-- [**P1ng**](https://github.com/drona-gyawali/p1ng) — Minimalist internet speed tester that delivers raw performance metrics
-
-- [**Linkly**](https://github.com/drona-gyawali/Linkly) — Fast and lightweight URL shortener app
-
-- [**Investor Analysis**](https://github.com/drona-gyawali/Smart-Investor-Analytics)  — Management-based project where we study the investment behavior of a company and perform data analysis
 ---
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/dornaoffical" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/dorna-gyawali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://instagram.com/gyawali_dorna" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://medium.com/@dronarajgyawali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/dronaraj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://discord.gg/7JaUjHsw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
+
+### **Open Source Contributions**
+
+#### **[Certego / BuffaLogs](https://github.com/certego/BuffaLogs)** — *Detect Login Anomalies* | [Merged PR](https://github.com/certego/BuffaLogs/pulls?q=is%3Apr+author%3Adrona-gyawali+is%3Aclosed)
+*   **Infrastructure & Reliability:** Resolved critical migration failures and improved system stability by fixing missing User Agent crashes.
+*   **Feature Engineering:** Implemented task execution logging and periodic model cleanup tasks to optimize database health.
+*   **Performance Optimization:** Refactored test suites using `setUpTestData`, significantly reducing CI/CD execution time.
+*   **API & Security:** Developed advanced alert filtering, GeoIP validation, and fixed CSRF vulnerabilities.
+
+#### **[GreedyBear-Project / GreedyBear](https://github.com/GreedyBear-Project/GreedyBear)** — *Threat Intel Platform* | [Merged PR](https://github.com/GreedyBear-Project/GreedyBear/pulls?q=is%3Apr+author%3Adrona-gyawali+is%3Aclosed)
+*   **Data Pipeline & ML:** Integrated Random Forest feature importance logging and automated GeoIP enrichment for IOCs.
+*   **Automation:** Developed cronjobs for credential reuse detection, behavioral tagging, and Spamhaus DROP v4 integration.
+*   **System Architecture:** Refactored core API responses to replace static ASN fields with dynamic Autonomous System relationships.
+*   **Observability:** Built system health overview endpoints to monitor real-time background job statuses.
+
