@@ -24,14 +24,7 @@ Hi, I am **developer** loved to the deep dive into AI infrastructure, automation
 ### **Open Source Contributions**
 
 #### **[Certego / BuffaLogs](https://github.com/certego/BuffaLogs)** — *Detect Login Anomalies* | [Merged PR](https://github.com/certego/BuffaLogs/pulls?q=is%3Apr+author%3Adrona-gyawali+is%3Aclosed)
-*   **Infrastructure & Reliability:** Resolved critical migration failures and improved system stability by fixing missing User Agent crashes.
-*   **Feature Engineering:** Implemented task execution logging and periodic model cleanup tasks to optimize database health.
-*   **Performance Optimization:** Refactored test suites using `setUpTestData`, significantly reducing CI/CD execution time.
-*   **API & Security:** Developed advanced alert filtering, GeoIP validation, and fixed CSRF vulnerabilities.
 
 #### **[GreedyBear-Project / GreedyBear](https://github.com/GreedyBear-Project/GreedyBear)** — *Threat Intel Platform* | [Merged PR](https://github.com/GreedyBear-Project/GreedyBear/pulls?q=is%3Apr+author%3Adrona-gyawali+is%3Aclosed)
-*   **Data Pipeline & ML:** Integrated Random Forest feature importance logging and automated GeoIP enrichment for IOCs.
-*   **Automation:** Developed cronjobs for credential reuse detection, behavioral tagging, and Spamhaus DROP v4 integration.
-*   **System Architecture:** Refactored core API responses to replace static ASN fields with dynamic Autonomous System relationships.
-*   **Observability:** Built system health overview endpoints to monitor real-time background job statuses.
+
 
